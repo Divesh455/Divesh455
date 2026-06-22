@@ -11,9 +11,9 @@
 
 🔭 Currently working on **AI & Machine Learning Projects**
 
-🌱 Currently learning **Deep Learning, Generative AI & MLOps**
+🌱 Currently learning **Deep Learning, Generative AI**
 
-💡 Interested in **Artificial Intelligence, Data Science, Computer Vision & NLP**
+💡 Interested in **Artificial Intelligence, Data Science, Computer Vision**
 
 🎯 Goal: **Become an AI Engineer and build impactful AI products**
 
@@ -45,8 +45,6 @@
 
 
 ## 🎯 2026 Goals
-
-✅ Build 10 End-to-End ML Projects
 
 ✅ Master Deep Learning
 

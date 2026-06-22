@@ -2,7 +2,7 @@
 <h3 align="center">Data Scientist | Machine Learning Enthusiast | AI Developer</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Divesh455&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=Divesh455&style=for-the-badge&label=Profile%20Views&color=8A2BE2&logo=github" alt="Profile Views" />
 </p>
 
 ---
